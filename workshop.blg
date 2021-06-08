@@ -1,0 +1,9 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'workshop.blg'
+[209] biber-MSWIN32:340> INFO - === 
+[293] Biber.pm:415> INFO - Reading 'workshop.bcf'
+[499] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[516] Utils.pm:395> WARN - The file 'workshop.bcf' does not contain any citations!
+[532] bbl.pm:654> INFO - Writing 'workshop.bbl' with encoding 'UTF-8'
+[532] bbl.pm:757> INFO - Output to workshop.bbl
+[533] Biber.pm:128> INFO - WARNINGS: 1
